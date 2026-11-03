@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Times the referral ask as a calendar mechanic: at onboarding completion, at every month the client's key metric moved, and at ascension moments.",
+  "keywords": [
+    "ask",
+    "kairos",
+    "referral",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-referral-ask",
+  "repository": "https://github.com/baselam88/kairos-referral-ask-plugin",
+  "version": "0.1.0"
+}
